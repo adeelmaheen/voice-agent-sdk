@@ -38,10 +38,6 @@ if 'api_key' not in st.session_state:
     st.session_state.api_key = ""
 if 'selected_agent' not in st.session_state:
     st.session_state.selected_agent = "Weather Agent"
-if 'chat_history' not in st.session_state:
-    st.session_state.chat_history = []
-if 'is_recording' not in st.session_state:
-    st.session_state.is_recording = False
 if 'is_processing' not in st.session_state:
     st.session_state.is_processing = False
 
