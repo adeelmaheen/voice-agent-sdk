@@ -1,0 +1,13 @@
+openai-agents[voice]
+sounddevice
+numpy
+python-dotenv
+requests
+SpeechRecognition
+PyAudio
+scipy
+streamlit
+streamlit-webrtc
+pydub
+ffmpeg
+wavfile
